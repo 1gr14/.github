@@ -1,5 +1,3 @@
-# 1gr14
-
 I'm Sergei Dmitriev. 18 years of commercial development experience, the last 11 focused on startups. I love creating IT products — I'm driven by the process of creation itself.
 
 I've built projects from scratch many times, trying different tools and improving my own boilerplate along the way.
