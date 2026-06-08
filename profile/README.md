@@ -1,7 +1,5 @@
 # 1gr14
 
----
-
 I'm Sergei Dmitriev. 18 years of commercial development experience, the last 11 focused on startups. I love creating IT products — I'm driven by the process of creation itself.
 
 I've built projects from scratch many times, trying different tools and improving my own boilerplate along the way.
@@ -12,13 +10,11 @@ In the end I ran into places where existing frameworks and libraries no longer m
 
 [Site](https://1gr14.dev) · [Discord](https://discord.gg/qK9gSzqT9e) · [Telegram](https://t.me/s_1gr14) · [X](https://x.com/s_1gr14) · [YouTube](https://www.youtube.com/@s_1gr14)
 
----
-
 ## Point0
 
 A fullstack TypeScript framework — shipped as `@point0/*` (`core`, `engine`, …).
 
-## Libraries — `@1gr14/*`
+## Libraries
 
 Small, standalone TypeScript libraries. Each works on its own, and pairs well with Point0.
 
