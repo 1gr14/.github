@@ -2,7 +2,7 @@ I'm Sergei Dmitriev. 18 years of commercial development experience, the last 11 
 
 I've built projects from scratch many times, trying different tools and improving my own boilerplate along the way.
 
-In the end I ran into places where existing frameworks and libraries no longer matched the DX I wanted. They are great tools, but I knew what felt better for me. So I built my own. That's how Point0 framework and the smaller \*0 libraries were born. I hope these projects will be useful to many other developers too.
+In the end I ran into places where existing frameworks and libraries no longer matched the DX I wanted. They are great tools, but I knew what felt better for me. So I built my own. That's how Point0 framework and other libraries were born. I hope these projects will be useful to many other developers too.
 
 1gr14 reads as "Igrich": 1=I, 4=CH (Cyrillic Ч). Short for my patronymic, Igorevich.
 
