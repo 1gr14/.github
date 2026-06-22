@@ -6,7 +6,7 @@ In the end I ran into places where existing frameworks and libraries no longer m
 
 1gr14 reads as "Igrich": 1=I, 4=CH (Cyrillic Ч). Short for my patronymic, Igorevich.
 
-[Site](https://1gr14.dev) · [Discord](https://discord.gg/qK9gSzqT9e) · [Telegram](https://t.me/s_1gr14) · [X](https://x.com/s_1gr14) · [YouTube](https://www.youtube.com/@s_1gr14)
+[Site](https://1gr14.dev) · [Discord](https://discord.gg/hWgtn58FVv) · [Telegram](https://t.me/s_1gr14) · [X](https://x.com/s_1gr14) · [YouTube](https://www.youtube.com/@s_1gr14)
 
 ## Point0
 
@@ -14,13 +14,11 @@ A fullstack TypeScript framework — shipped as `@point0/*` (`core`, `engine`, �
 
 ## Libraries
 
-Small, standalone TypeScript libraries. Each works on its own, and pairs well with Point0.
+Standalone TypeScript libraries. Each works on its own, and pairs well with Point0.
 
 - **[error0](https://github.com/1gr14/error0)** — one typed, serializable `Error` class: typed fields, cause flow, plugins.
-- **[route0](https://github.com/1gr14/route0)** — strongly-typed URL router: build paths and parse URLs with full inference.
-- **[flat](https://github.com/1gr14/flat)** — flatten / encode nested objects ↔ query strings and dot-paths.
-
-> The `0` is **earned** — it marks a library with its own model and real depth. Small utilities keep a plain name.
+- **[route0](https://github.com/1gr14/route0)** — type-safe URL paths (not a router): build paths and parse URLs with full inference.
+- **[flat](https://github.com/1gr14/flat)** — flatten nested objects for both URL query strings and FormData — bracket-notation, arrays, files.
 
 ## Start0
 
