@@ -8,7 +8,7 @@ In the end I ran into places where existing frameworks and libraries no longer m
 
 [Site](https://1gr14.dev) · [Discord](https://discord.gg/hWgtn58FVv) · [Telegram](https://t.me/s_1gr14) · [X](https://x.com/s_1gr14) · [YouTube](https://www.youtube.com/@s_1gr14)
 
-## Point0
+## [Point0](https://github.com/1gr14/point0)
 
 A fullstack TypeScript framework — shipped as `@point0/*` (`core`, `engine`, …).
 
